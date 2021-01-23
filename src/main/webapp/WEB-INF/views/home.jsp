@@ -8,10 +8,10 @@
 	<div class="row-fluid">
 		<div class="span10 offset1">
 			<h1>DevOps Traning Mohanraj Vellingiri</h1>
-			<h2>DevOps Traning Mohanraj Vellingiri</h2>	
-			<h3>DevOps Traning Mohanraj Vellingiri</h3>
-			<h4>DevOps Traning Mohanraj Vellingiri</h4>	
-			<h3>DevOps Traning Mohanraj Vellingiri</h3>
+			<h2>DevOps Traning Venkat</h2>	
+			<h3>DevOps Traning Hemachandra </h3>
+			<h4>DevOps Traning Vijin</h4>	
+			<h3>DevOps Traning Mahesh</h3>
 			<h2>DevOps Traning Mohanraj Vellingiri</h2>
 			<h1>DevOps Traning Mohanraj Vellingiri</h1>				
 			<div>
